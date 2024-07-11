@@ -96,7 +96,7 @@ npm start
 ------------------
 ### 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS
 > **Note** Descargué y Descomprime
-### [`JoanBot-TK ~ Archivos`](https://github.com/JJoan02/JoanBot-TK/archive/refs/heads/master.zip)
+### [`YesithBot-TK ~ Archivos`](https://drive.google.com/file/d/1-gLc2-k9jfkd7Jl3iWnyRAOWeHvuXEv8/view?usp=drivesdk)
 [![blog](https://img.shields.io/badge/NO_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://www.youtube.com/shorts/ZLJYDUM6vSY)
 ```bash
