@@ -90,15 +90,6 @@ pkg install -y git nodejs ffmpeg imagemagick yarn
 git clone https://github.com/YYesith03/YesithBot-TK.git
 ```
 ```bash
-cd YesithBot-TK
-```
-```bash
-yarn install
-```
-```bash
-npm install
-```
-```bash
 npm start
 ```
 > **Warning** Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación 
