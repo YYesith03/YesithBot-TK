@@ -87,7 +87,7 @@ apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/YYesith02/YesithBot-TK.git
+git clone https://github.com/YYesith03/YesithBot-TK.git
 ```
 ```bash
 cd YesithBot-TK
