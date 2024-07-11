@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a href='https://postimg.cc/bDjkb8QJ' target='_blank'><img src='https://i.postimg.cc/bDjkb8QJ/Screenshot-20240711-093701-394.png' border='0' alt='Screenshot-20240711-093701-394'/></a>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/tC4TpnpQ/Screenshot-20240711-093701-394.png' border='0' alt='Screenshot-20240711-093701-394'/></a>
 
 <p align="center">
 <a href="#"><img title="YesithBot-TK" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APÓYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
